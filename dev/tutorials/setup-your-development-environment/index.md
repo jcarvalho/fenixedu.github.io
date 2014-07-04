@@ -5,7 +5,7 @@ root: "../../"
 ---
 ## Setup your development environment
 
-This tutorial walks you through the system requirements necessary to develop applications within the FenixEdu™ software ecosystem. It is intended for developers that want to either contribute to the existing code base, or use the infrastructure to develop new applications.
+This tutorial walks you through the system requirements necessary to develop applications within the FenixEdu™ software ecosystem. It is intended for developers that want to either contribute to the existing code base, or use the infrastructure to develop new applications.J
 
 > <span>Attention</span>
 > The suggestions highlighted in this tutorial are for development environments only. Be aware that they may not be adequate for other purposes, in particular for production environments. Also, since we love pinguins, most tweaks are mainly intended for GNU/Linux Operating Systems.
@@ -64,7 +64,7 @@ Pillow is a project that attempts to ease the setup of the development environme
 
 #### Step 5.1 - Oracle's JDK 8
 
-The FenixEdu™ project requires the Oracle's Java Development Kit (JKD) 8.
+The FenixEdu™ project requires Oracle's Java Development Kit (JDK) 8, or OpenJDK 8.
 
 #### Step 5.2 - Apache Maven
 
